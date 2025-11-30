@@ -1,0 +1,2 @@
+MONGO_URI=mongodb+srv://Rawan_user:19992001rr@cluster0.g8abn7y.mongodb.net/BrightSpace
+JWT_SECRET=your_jwt_secret
